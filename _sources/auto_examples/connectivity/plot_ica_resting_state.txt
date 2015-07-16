@@ -1,0 +1,26 @@
+
+
+.. _example_connectivity_plot_ica_resting_state.py:
+
+
+Independent component analysis of resting-state fMRI
+=====================================================
+
+An example applying ICA to resting-state data.
+
+
+
+.. rst-class:: sphx-glr-horizontal
+
+
+
+
+
+**Python source code:** :download:`plot_ica_resting_state.py <plot_ica_resting_state.py>`
+
+.. literalinclude:: plot_ica_resting_state.py
+    :lines: 7-
+
+**Total running time of the example:**  0.00 seconds
+( 0 minutes  0.00 seconds)
+    

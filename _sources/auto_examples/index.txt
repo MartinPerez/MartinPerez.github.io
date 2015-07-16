@@ -1,0 +1,244 @@
+
+
+.. _examples-index:
+
+Gallery of Examples
+===================
+
+
+
+
+.. warning::
+
+    If you want to run the examples, make sure you execute them in a directory
+    where you have write permissions, or you copy the examples into such a
+    directory. If you install nilearn manually, make sure you have followed
+    :ref:`the instructions <installation>`.
+
+.. note::
+
+    A few examples may not run with scikit-learn versions older than
+    0.14.1.
+
+General examples
+----------------
+
+General-purpose and introductory examples for nilearn.
+
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="A simple example of basic Python numerics and how to plot it. ">
+
+.. figure:: ./images/thumb/plot_python_101.png
+    :target: ./plot_python_101.html
+
+    :ref:`example_plot_python_101.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   ./plot_python_101
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="A simple example showing how to load an existing Nifti file and use basic nilearn functionaliti...">
+
+.. figure:: ./images/thumb/plot_nilearn_101.png
+    :target: ./plot_nilearn_101.html
+
+    :ref:`example_plot_nilearn_101.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   ./plot_nilearn_101
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="Here is a simple example of automatic mask computation using the nifti masker. The mask is comp...">
+
+.. figure:: ./images/thumb/plot_nifti_simple.png
+    :target: ./plot_nifti_simple.html
+
+    :ref:`example_plot_nifti_simple.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   ./plot_nifti_simple
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example shows how to use the Localizer dataset in a basic analysis. A standard Anova is pe...">
+
+.. figure:: ./images/thumb/plot_localizer_simple_analysis.png
+    :target: ./plot_localizer_simple_analysis.html
+
+    :ref:`example_plot_localizer_simple_analysis.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   ./plot_localizer_simple_analysis
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="Here is a simple example of decoding, reproducing the Haxby 2001 study on a face vs cat discrim...">
+
+.. figure:: ./images/thumb/plot_haxby_simple.png
+    :target: ./plot_haxby_simple.html
+
+    :ref:`example_plot_haxby_simple.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   ./plot_haxby_simple
+
+
+.. raw:: html
+
+    <div style='clear:both'></div>
+    
+
+
+Functional connectivity
+-----------------------
+
+See :ref:`parcellating_brain`, :ref:`extracting_rsn` or
+:ref:`functional_connectomes` for more details.
+
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="An example applying CanICA to resting-state data. This example applies it to 40 subjects of the...">
+
+.. figure:: connectivity/images/thumb/plot_canica_resting_state.png
+    :target: ./connectivity/plot_canica_resting_state.html
+
+    :ref:`example_connectivity_plot_canica_resting_state.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_canica_resting_state
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example extracts the signal on regions defined via a probabilistic atlas, to construct a f...">
+
+.. figure:: connectivity/images/thumb/plot_probabilistic_atlas_extraction.png
+    :target: ./connectivity/plot_probabilistic_atlas_extraction.html
+
+    :ref:`example_connectivity_plot_probabilistic_atlas_extraction.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_probabilistic_atlas_extraction
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="Here we show how to extract signals from a brain parcellation and compute a correlation matrix.">
+
+.. figure:: connectivity/images/thumb/plot_signal_extraction.png
+    :target: ./connectivity/plot_signal_extraction.html
+
+    :ref:`example_connectivity_plot_signal_extraction.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_signal_extraction
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example extract brain signals from spheres described by the coordinates of their center in...">
+
+.. figure:: connectivity/images/thumb/plot_adhd_spheres.png
+    :target: ./connectivity/plot_adhd_spheres.html
+
+    :ref:`example_connectivity_plot_adhd_spheres.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_adhd_spheres
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="An example applying ICA to resting-state data. ">
+
+.. figure:: connectivity/images/thumb/plot_ica_resting_state.png
+    :target: ./connectivity/plot_ica_resting_state.html
+
+    :ref:`example_connectivity_plot_ica_resting_state.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_ica_resting_state
+
