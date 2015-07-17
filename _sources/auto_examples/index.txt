@@ -242,3 +242,97 @@ See :ref:`parcellating_brain`, :ref:`extracting_rsn` or
 
    connectivity/plot_ica_resting_state
 
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example shows a comparison of graph lasso and group-sparse covariance estimation of connec...">
+
+.. figure:: connectivity/images/thumb/plot_simulated_connectome.png
+    :target: ./connectivity/plot_simulated_connectome.html
+
+    :ref:`example_connectivity_plot_simulated_connectome.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_simulated_connectome
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example constructs a functional connectome using the sparse inverse covariance.">
+
+.. figure:: connectivity/images/thumb/plot_inverse_covariance_connectome.png
+    :target: ./connectivity/plot_inverse_covariance_connectome.html
+
+    :ref:`example_connectivity_plot_inverse_covariance_connectome.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_inverse_covariance_connectome
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="We use spatially-constrained Ward-clustering to create a set of parcels. These parcels are part...">
+
+.. figure:: connectivity/images/thumb/plot_rest_clustering.png
+    :target: ./connectivity/plot_rest_clustering.html
+
+    :ref:`example_connectivity_plot_rest_clustering.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_rest_clustering
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbContainer" tooltip="This example shows how to estimate a connectome on a groupe of subjects using the group sparse ...">
+
+.. figure:: connectivity/images/thumb/plot_multi_subject_connectome.png
+    :target: ./connectivity/plot_multi_subject_connectome.html
+
+    :ref:`example_connectivity_plot_multi_subject_connectome.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   connectivity/plot_multi_subject_connectome
+
+
+.. raw:: html
+
+    <div style='clear:both'></div>
+    
+
+
+Decoding and predicting from brain images
+-----------------------------------------
+
+See :ref:`decoding` for more details.
+
+
+
